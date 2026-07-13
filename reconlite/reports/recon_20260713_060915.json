@@ -1,0 +1,76 @@
+{
+  "username": "testuser",
+  "results": [
+    {
+      "site": "GitHub",
+      "url": "https://github.com/testuser",
+      "status": 404,
+      "found": false,
+      "timestamp": 1783922951
+    },
+    {
+      "site": "Twitter/X",
+      "url": "https://twitter.com/testuser",
+      "status": 200,
+      "found": true,
+      "timestamp": 1783922951
+    },
+    {
+      "site": "Instagram",
+      "url": "https://www.instagram.com/testuser",
+      "status": 200,
+      "found": true,
+      "timestamp": 1783922951
+    },
+    {
+      "site": "Reddit",
+      "url": "https://www.reddit.com/user/testuser",
+      "status": 200,
+      "found": true,
+      "timestamp": 1783922951
+    },
+    {
+      "site": "TikTok",
+      "url": "https://www.tiktok.com/@testuser",
+      "status": 403,
+      "found": false,
+      "timestamp": 1783922951
+    },
+    {
+      "site": "Pinterest",
+      "url": "https://www.pinterest.com/testuser",
+      "status": 200,
+      "found": true,
+      "timestamp": 1783922951
+    },
+    {
+      "site": "LinkedIn",
+      "url": "https://www.linkedin.com/in/testuser",
+      "status": 999,
+      "found": false,
+      "timestamp": 1783922951
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/@testuser",
+      "status": 200,
+      "found": true,
+      "timestamp": 1783922951
+    },
+    {
+      "site": "Twitch",
+      "url": "https://www.twitch.tv/testuser",
+      "status": 200,
+      "found": true,
+      "timestamp": 1783922951
+    },
+    {
+      "site": "Flickr",
+      "url": "https://www.flickr.com/people/testuser",
+      "status": 200,
+      "found": true,
+      "timestamp": 1783922951
+    }
+  ],
+  "timestamp": 1783922951
+}

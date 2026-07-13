@@ -1,0 +1,6 @@
+# ReconLite - Standard library only, no dependencies required.
+#
+# Optional dependencies (install with pip install reconlite[extra]):
+# dns: dnspython  # For accurate DNS resolution (Priority 2)
+# config: pyyaml  # For YAML configuration files (Priority 3)
+# ui: tqdm        # For progress bars (Priority 7)

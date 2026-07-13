@@ -1,0 +1,31 @@
+# ReconLite Default Configuration
+# Copy this file to ~/.config/reconlite/config.yaml (Linux/Mac)
+# or %APPDATA%/reconlite/config.yaml (Windows) and modify as needed.
+
+general:
+  reports_dir: "./reports"
+  timeout: 10
+  max_workers: 5
+  log_level: "INFO"
+
+username_check:
+  # Path to custom sites file (YAML/JSON)
+  # If null, uses built-in site list
+  sites_file: null
+  rate_limit_delay: 0.0
+  follow_redirects: true
+  max_workers: 5
+  timeout: 10
+
+dns:
+  # Use dnspython library if available (optional dependency)
+  use_dnspython: false
+  timeout: 5
+  # Custom DNS servers (empty = use system DNS)
+  servers: []
+
+reporting:
+  formats:
+    - json
+    - markdown
+  include_raw: false

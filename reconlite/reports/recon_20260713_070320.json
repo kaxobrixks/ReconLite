@@ -1,0 +1,19 @@
+{
+  "domain": "google.com",
+  "ip_addresses": [
+    "216.239.38.120"
+  ],
+  "aliases": [],
+  "mx_records": [
+    "mail.google.com",
+    "smtp.google.com"
+  ],
+  "ns_records": [
+    "ns1.google.com",
+    "ns2.google.com"
+  ],
+  "cname_records": [],
+  "txt_records": [],
+  "soa_records": [],
+  "timestamp": 1783926199
+}

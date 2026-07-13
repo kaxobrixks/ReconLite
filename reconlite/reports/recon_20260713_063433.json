@@ -1,0 +1,14 @@
+{
+  "domain": "example.com",
+  "ip_addresses": [
+    "104.20.23.154",
+    "172.66.147.243"
+  ],
+  "aliases": [],
+  "mx_records": [],
+  "ns_records": [],
+  "cname_records": [],
+  "txt_records": [],
+  "soa_records": [],
+  "timestamp": 1783924473
+}

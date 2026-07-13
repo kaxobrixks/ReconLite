@@ -1,0 +1,14 @@
+# ReconLite Default Sites Configuration
+# Copy this file and add custom sites.
+# Format: "Site Name": "https://example.com/{username}"
+
+GitHub: "https://github.com/{username}"
+Twitter/X: "https://twitter.com/{username}"
+Instagram: "https://www.instagram.com/{username}"
+Reddit: "https://www.reddit.com/user/{username}"
+TikTok: "https://www.tiktok.com/@{username}"
+Pinterest: "https://www.pinterest.com/{username}"
+LinkedIn: "https://www.linkedin.com/in/{username}"
+YouTube: "https://www.youtube.com/@{username}"
+Twitch: "https://www.twitch.tv/{username}"
+Flickr: "https://www.flickr.com/people/{username}"
